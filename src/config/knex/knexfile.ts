@@ -1,4 +1,3 @@
-// knexfile.js
 import env from "#config/env/env.js";
 import { z } from "zod";
 
